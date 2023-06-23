@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Meraj Sayed
 - 👀 I’m passionate about computer programming and travelling around the world
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate on any of the cool idea
 - 📫 How to reach me ping me on insta @ _mr._sayed
 
