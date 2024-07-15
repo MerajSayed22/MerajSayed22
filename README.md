@@ -2,7 +2,7 @@
 - 👀 I’m passionate about computer programming and travelling around the world
 - 🌱 I’m a FullStack stack developer
 - ✨ I am able to convert your app idea into a scable robust code and can deploy it as you want
-- 💞️ I’m looking to collaborate on any of the cool idea
+- 💞️ I’m looking to collaborate on any of the cool ideas
 - 📫 How to reach me ping me on insta @ _mr._sayed
 
 <!---
