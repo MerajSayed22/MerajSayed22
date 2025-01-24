@@ -10,10 +10,17 @@ MerajSayed22/MerajSayed22 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Meraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerajSayed22)](https://github.com/MerajSayed22/github-readme-stats)
-
-![Meraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerajSayed22&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
 ![Meraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MerajSayed22&show_icons=true)
 
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
