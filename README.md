@@ -19,7 +19,9 @@ You can click the Preview link to take a look at your changes.
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=MerajSayed22&show_icons=true" /> 
-</picture> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerajSayed22)](https://github.com/MerajSayed22/github-readme-stats)
+</picture> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerajSayed22)](https://github.com/MerajSayed22/github-readme-stats)
 
 
 
